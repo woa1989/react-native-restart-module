@@ -149,7 +149,7 @@
     ]
   },
   "codegenConfig": {
-    "name": "RestartModuleSpec",
+    "name": "RestartModule",
     "type": "modules",
     "jsSrcsDir": "src",
     "android": {

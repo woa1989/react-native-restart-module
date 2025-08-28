@@ -4,23 +4,18 @@ new restart
 
 ## Installation
 
-
 ```sh
 npm install react-native-restart-module
 ```
 
-
 ## Usage
 
-
 ```js
-import { multiply } from 'react-native-restart-module';
+import { restart } from 'react-native-restart-module';
 
-// ...
-
-const result = multiply(3, 7);
+// 触发应用重启
+restart();
 ```
-
 
 ## Contributing
 
